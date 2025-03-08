@@ -44,7 +44,7 @@ const LandingPage = ({ onOpenInvitation }) => (
             <div className="inline-flex flex-col items-center space-y-1 bg-white/80 px-6 py-3 rounded-xl">
               <Calendar className="w-5 h-5 text-rose-400" />
               <p className="text-gray-700 font-medium">
-                {formatEventDate(config.event.dateTime)}
+                Thứ Bảy, Tháng Ba 15, 2025
               </p>
             </div>
 

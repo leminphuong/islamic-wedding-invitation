@@ -176,7 +176,7 @@ export default function Wishes() {
                                                 <div className="flex items-center space-x-1 text-gray-500 text-xs">
                                                     <Clock className="w-3 h-3" />
                                                     <time className="truncate">
-                                                        {formatEventDate(wish.timestamp)}
+                                                        Thứ Bảy, Tháng Ba 15, 2025
                                                     </time>
                                                 </div>
                                             </div>

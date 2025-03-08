@@ -91,7 +91,7 @@ export default function Location() {
 
                                 <div className="flex items-center space-x-4">
                                     <CalendarCheck className="w-5 h-5 text-rose-500" />
-                                    <p className="text-gray-600">{formatEventDate(config.event.dateTime)}</p>
+                                    <p className="text-gray-600">Thứ Bảy, Tháng Ba 15, 2025</p>
                                 </div>
 
                                 <div className="flex items-center space-x-4">

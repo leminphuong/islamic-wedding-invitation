@@ -177,7 +177,7 @@ export default function Hero() {
                                     >
                                         <Calendar className="w-4 h-4 text-rose-400" />
                                         <span className="text-gray-700 font-medium">
-                                            {formatEventDate(config.event.dateTime, "full")}
+                                            Thứ Bảy, Tháng Ba 15, 2025
                                         </span>
                                     </motion.div>
 
