@@ -121,7 +121,7 @@ END:VCALENDAR`;
         <div className="space-y-3 text-gray-600">
           <div className="flex items-center space-x-3">
             <Calendar className="w-5 h-5 text-rose-500" />
-            <span>{formatEventDate(eventData.date)}</span>
+            <span>Thứ Bảy, Tháng Ba 15, 2025</span>
           </div>
           <div className="flex items-center space-x-3">
             <Clock className="w-5 h-5 text-rose-500" />
